@@ -1,0 +1,57 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    
+     margin-top: 3px;
+    font-size: 55px;
+    justify-content: center;
+     align-items: center; 
+  
+}
+#day{
+    background-color: lightsteelblue;
+    color:maroon;
+    width:70px;
+    height:70px;
+margin: 20px;
+font-size: 55px;
+text-align: center;
+}
+#hour{
+    background-color: lightsteelblue;
+    color: maroon;
+    width:70px;
+    height:70px;
+margin: 20px;
+font-size: 55px;
+text-align: center;
+}
+#min{
+    background-color: lightsteelblue;
+    color: maroon;
+    width:70px;
+    height:70px;
+    margin: 20px;
+    font-size: 55px;
+    text-align: center;
+}
+#sec{
+    background-color: lightsteelblue;
+    color: maroon;
+    width:70px;
+    height:70px;
+    margin: 20px;
+    font-size: 55px;
+    text-align: center;
+}
+.smalltext{
+  text-align: center;
+  font-size: 25px;
+  padding-top: 10px;
+}
